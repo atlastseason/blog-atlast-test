@@ -1,7 +1,7 @@
 ---
 author: atlastseason
 title: What's their name again?
-tag: comic
+tags: comic
 ---
 
 ![](/assets/images/2024/10/sharkbros-forgot-name-(With-Watermark)-1-Large.jpeg)
