@@ -16,3 +16,6 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+domain: atlastseason.github.io
+url: https://atlastseason.github.io/blog-atlast-test
