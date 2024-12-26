@@ -17,5 +17,8 @@ defaults:
     values:
       image: true
 
-domain: atlastseason.github.io
-url: https://atlastseason.github.io/blog-atlast-test
+url: https://blog.atlastseason.art
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
