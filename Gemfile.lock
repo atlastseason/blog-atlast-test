@@ -149,6 +149,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
+  sass-unknown
   x86-cygwin
   x86-linux
   x86-linux-android
