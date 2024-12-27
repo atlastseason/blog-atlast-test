@@ -18,6 +18,6 @@ defaults:
       image: true
 
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
