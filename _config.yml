@@ -17,8 +17,7 @@ defaults:
     values:
       image: true
 
-url: https://blog.atlastseason.art
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag

@@ -6,24 +6,10 @@ html {
 header {
   block-size: 4rem;
 }
-@media screen and (max-width: 600px) {
-  header {
-    display: flex;
-    position: fixed;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.8);
-    padding-block-start: 1rem;
-  }
-}
 
 body {
   display: flex;
   margin-block-end: 16vh;
-}
-@media screen and (max-width: 600px) {
-  body {
-    display: block;
-  }
 }
 
 .post {
@@ -40,11 +26,6 @@ body {
 article {
   display: block;
 }
-@media screen and (max-width: 600px) {
-  article {
-    margin: auto;
-  }
-}
 
 .bighead {
   width: 100px;
@@ -58,31 +39,15 @@ article {
 img {
   max-block-size: 70vh;
 }
-@media screen and (max-width: 600px) {
-  img {
-    max-width: 100%;
-  }
-}
 
 /* Navigation */
 nav {
   margin-inline-end: 6rem;
 }
 
-@media screen and (max-width: 600px) {
-  nav ul {
-    display: flex;
-  }
-}
-
 nav ul li {
   list-style: none;
   margin-block-end: 2rem;
-}
-@media screen and (max-width: 600px) {
-  nav ul li {
-    margin-inline-end: 2rem;
-  }
 }
 
 .tagging {
