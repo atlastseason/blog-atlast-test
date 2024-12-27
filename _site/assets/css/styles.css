@@ -1,57 +1,24 @@
-html {
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
-}
+html { font-size: 16px; font-family: Arial, Helvetica, sans-serif; }
 
-header {
-  block-size: 4rem;
-}
+header { block-size: 4rem; }
 
-body {
-  display: flex;
-  margin-block-end: 16vh;
-}
+body { display: flex; margin-block-end: 16vh; }
 
-.post {
-  list-style: none;
-}
+.post { list-style: none; }
 
-.published-date {
-  color: silver;
-  font-style: italic;
-  margin-block-start: -1rem;
-  padding: 0;
-}
+.published-date { color: silver; font-style: italic; margin-block-start: -1rem; padding: 0; }
 
-article {
-  display: block;
-}
+article { display: block; }
 
-.bighead {
-  width: 100px;
-}
+.bighead { width: 100px; }
 
-.logo {
-  block-size: 50px;
-  margin-inline-start: 2rem;
-}
+.logo { block-size: 50px; margin-inline-start: 2rem; }
 
-img {
-  max-block-size: 70vh;
-}
+img { max-block-size: 70vh; }
 
 /* Navigation */
-nav {
-  margin-inline-end: 6rem;
-}
+nav { margin-inline-end: 6rem; }
 
-nav ul li {
-  list-style: none;
-  margin-block-end: 2rem;
-}
+nav ul li { list-style: none; margin-block-end: 2rem; }
 
-.tagging {
-  list-style: none;
-}
-
-/*# sourceMappingURL=styles.css.map */
+.tagging { list-style: none; }
