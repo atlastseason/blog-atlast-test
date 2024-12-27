@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-# gem "jekyll",  '~> 4.3'
+gem "jekyll",  '~> 4.3'
 
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 
-gem 'github-pages', '~>232'
+# gem 'github-pages', '~>232'
